@@ -1,3 +1,8 @@
+---
+layout: default
+title: Business Trends & Forecasting in Vancouver
+---
+
 # 📊 Business Trends & Forecasting in Vancouver  
 ### UBC DSCI DataQuest 2025 — Team Saya Very Mager (SVM)
 
