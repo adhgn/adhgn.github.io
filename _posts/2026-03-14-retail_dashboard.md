@@ -9,7 +9,7 @@ title: Excel Dashboard - Retail Sales
 This project transforms raw e-commerce data from a "Superstore" into a functional business intelligence tool. The dashboard provides actionable insights into sales trends, and regional performance to help stakeholders make data-driven decisions.
 
 ## Dashboard Preview
-![Sales Dashboard](https://github.com/adhgn/Superstore_Excel_Dashboard/blob/93f1bd2028a032130611776210fb89821938a7cf/dashboard_image.png)
+![Sales Dashboard](https://raw.githubusercontent.com/adhgn/Superstore_Excel_Dashboard/93f1bd2028a032130611776210fb89821938a7cf/dashboard_image.png)
 
 ## Data Transformation
 A significant portion of this project involved cleaning and modeling the data using Power Query (M).
